@@ -1,0 +1,15 @@
+# Sanal Ortam
+backend/venv/
+
+# Veri Setleri
+backend/raw_data/
+backend/dataset/
+
+# Python Önbellek Dosyaları
+__pycache__/
+*.pyc
+
+# İleride eğiteceğin model dosyaları (100MB'ı geçebilir)
+*.h5
+*.keras
+*.pt
